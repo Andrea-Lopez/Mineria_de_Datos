@@ -6,3 +6,5 @@
 [Ejercicios 1_Equipo 1_Grupo 003: Reglas de Asociacion y Regresion Lineal](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/Ejercicios1_1_003.pdf.pdf)
 
 [Resumenes_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/Resumenes_1822031.pdf)
+
+[Mapa mental 2_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/MapaMental_2_1822031.pdf)
