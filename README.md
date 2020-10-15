@@ -1,4 +1,6 @@
 # Mineria_de_Datos
+
+#FASE 1
 [Mapa mental 1_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/1822031_MapaMental1.pdf)
 
 [Presentacion en Equipo: Regla de Asociacion-Equipo1](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Presentaci%C3%B3n_Reglas%20de%20Asociaci%C3%B3n_2.pdf)
@@ -8,3 +10,7 @@
 [Resumenes_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/Resumenes_1822031.pdf)
 
 [Mapa mental 2_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/MapaMental_2_1822031.pdf)
+
+
+#FASE 2
+[AnalisisBD1_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/1822031_AnalisisBD1_1822031.pdf)
