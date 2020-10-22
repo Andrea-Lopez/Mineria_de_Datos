@@ -1,6 +1,6 @@
 # Mineria_de_Datos
 
-# FASE 1
+## FASE 1
 
 [Mapa mental 1_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/1822031_MapaMental1.pdf)
 
@@ -14,8 +14,9 @@
 
 
 
-# FASE 2
+## FASE 2
 
 [AnalisisBD1_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/AnalisisBD1_1822031.pdf)
+
 [Ejercicios_PythonBasico_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/PythonBasico_1822031.ipynb)
 
