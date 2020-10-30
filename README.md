@@ -20,3 +20,5 @@
 
 [Ejercicios_PythonBasico_1822031](https://github.com/Andrea-Lopez/Mineria_de_Datos/blob/master/PythonBasico_1822031.ipynb)
 
+[Avance1_PIA](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Avance1-PIA_2_003.pdf)
+
