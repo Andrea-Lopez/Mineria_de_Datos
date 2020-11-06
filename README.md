@@ -22,3 +22,4 @@
 
 [Avance1_PIA](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Avance1-PIA_2_003.pdf)
 
+[Ejercicios_Paython PIA ](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Ejercicios%20Python%20Miner%C3%ADa%20de%20Datos_2_003.ipynb)
