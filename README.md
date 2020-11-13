@@ -28,5 +28,7 @@
 ## FASE 3
 
 [2do Avance_PIA](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/AvancePIA_II_003_2.ipynb)
+
 NOTA. Para poder visualiuzar las graficos de los mapas, descargar de la carpeta .zip para poder visualizarlo.
+
 [Carpeta para visualizar mapas_2do Avance_PIA](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/AvancePIA_II_003_2_CC.zip)
